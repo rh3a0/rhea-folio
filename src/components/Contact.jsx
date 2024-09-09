@@ -33,12 +33,6 @@ const Contact = () => {
               required
             />
           </div>
-          <button
-            type="submit"
-            className="bg-blue-500 hover:bg-blue-700 text-white px-6 py-3 rounded-lg"
-          >
-            Send Message
-          </button>
         </form>
       </div>
     </section>
